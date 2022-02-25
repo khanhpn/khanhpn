@@ -24,5 +24,5 @@
   <a href="https://github.com/khanhpn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   <a href="https://www.linkedin.com/in/pham-khanh-bb61624a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://stackoverflow.com/users/4344085/khanh-pham" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-  <a href="    https://www.upwork.com/freelancers/~0194e156befded6d3d" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/upwork-%2312100E.svg?&style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~0194e156befded6d3d" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/upwork-%2312100E.svg?&style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
